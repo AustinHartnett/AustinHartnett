@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/hartnett-austin/" target="_blank">Austin Hartnett</a> 👋</h1>
 
-<h3 align="center">🚀 Aspiring IT Professional | Tech Enthusiast | Future System Admin 🚀</h3>
+<h3 align="center">🚀 IT Professional | Tech Enthusiast | Future System Admin 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Always+Learning.;Always+Building.;Always+Growing." alt="Typing SVG" />
