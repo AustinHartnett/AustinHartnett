@@ -16,9 +16,7 @@
 - [Ticket Lifecycle Examples](https://github.com/AustinHartnett/ticket-lifecycle)
 
 ### ☁️ Microsoft Azure
-- [Creating Virtual Machine with Microsoft Azure](https://github.com/AustinHartnett/azure-create-vm)
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AustinHartnett/configure-ad)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AustinHartnett/azure-network-protocols)
 
 ---
 
